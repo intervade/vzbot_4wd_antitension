@@ -4,3 +4,4 @@ I love the simplicity and speed that VzBot printers offer. However, I'm not a fa
 
 ## What's uploaded?
 I modified the plastic version of the 4wd motor mounts to be usable from a point not at the top of the printer. Additionally, the front motor mounts have a matching hole to be clamped onto the sides of the front extrusions. I also reversed the direction of the teeth in the EVA tensioners.
+![front_motors](https://github.com/intervade/vzbot_4wd_antitension/assets/93929298/90cdc7a3-3e58-4d9e-8f83-7dd62ed1ba5a)
